@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **Ddamula/Ddamula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ddamula (Ddamulira Allan)
+#### Am Ddamulira Allan
 
 Software Developer | Innovator | Lifelong Learner
 
