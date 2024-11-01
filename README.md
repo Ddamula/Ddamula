@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 Software Developer | Innovator | Lifelong Learner
 
 About Me
-
-As a passionate software developer with expertise in C#, Python, and Java, I excel in crafting innovative solutions. With a strong foundation in computer science, I continuously explore emerging technologies.
+#As a passionate software developer with expertise in C#, Python, and Java, I excel in crafting innovative solutions. With a strong foundation in computer science, I continuously explore emerging technologies.
+#Embracing a childlike heart, I stay curious, resilient, and authentic, unlocking innovation and joy in all aspects of life.
 
 Technical Skills
 
