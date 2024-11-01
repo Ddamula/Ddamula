@@ -1,54 +1,28 @@
-### Hi there 👋
+# Ddamulira Allan
 
-<!--
-**Ddamula/Ddamula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer | Innovator | Lifelong Learner
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...![LinkedIn Background Photo](https://github.com/user-attachments/assets/2d9a912c-b207-4757-801e-1e1329680778)
+## Highly motivated software developer with 5+ years of experience in designing, developing, and deploying innovative solutions. Proficient in C#, Python, Java, and various frameworks. Passionate about emerging technologies, data science, and machine learning.
 
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about Any thing MoMo APIs
-- 📫 How to reach me: damulirallan@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technical Skills
 
-#### Am Ddamulira Allan
+## - Programming languages: C#, Python, Java
+## - Development frameworks: .NET, Django, Flask, Spring
+## - Data science/machine learning: TensorFlow, PyTorch
+## - Databases: MySQL, MongoDB
+## - Operating Systems: Windows, Linux
 
-Software Developer | Innovator | Lifelong Learner
 
-About Me
-#As a passionate software developer with expertise in C#, Python, and Java, I excel in crafting innovative solutions. With a strong foundation in computer science, I continuously explore emerging technologies.
-#Embracing a childlike heart, I stay curious, resilient, and authentic, unlocking innovation and joy in all aspects of life.
+# Projects
 
-Technical Skills
+## - OpenAPI SandBox: A sandbox environment for exploring Momo Open API capabilities. [GitHub Repository Link](https://github.com/Ddamula/MoMoOpenAPI_SandBox)
+## - azure_api_application_insights : A sample Azure API project integrating Application Insights for monitoring and analytics. [GitHub Repository Link](https://github.com/Ddamula/azure_api_application_insights)
 
-- Programming languages: C#, Python, Java
-- Development frameworks: .NET, Django, Flask, Spring
-- Data science/machine learning: TensorFlow, PyTorch
-- Databases: MySQL, MongoDB
-- Operating Systems: Windows, Linux
+## Connect with Me
 
-Experience
+### - LinkedIn: (www.linkedin.com/in/ddamulira-allan)
+### - GitHub:   (https://github.com/Ddamula)
 
-- [Software Developer], [Company Name] ([Employment Dates])
-    - Developed multiple projects using C# and Python
-    - Collaborated with cross-functional teams
-    - Implemented automated testing and deployment
-
-Education
-
-- [Degree], [Field of Study], [University Name] ([Graduation Date])
-
-Projects
-
-- [Project Name]: [Brief Description] ([GitHub Repository Link])
-- [Project Name]: [Brief Description] ([GitHub Repository Link])
-
-Connect with Me
-
-- LinkedIn: (link unavailable)
-- GitHub: (link unavailable)
-
+# Let's Build Something Amazing!
