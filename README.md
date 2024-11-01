@@ -20,15 +20,14 @@
 
 # Projects
 
-## - OpenAPI SandBox: A sandbox environment for exploring Momo Open API capabilities. [GitHub Repository Link](https://github.com/Ddamula/MoMoOpenAPI_SandBox)
+## - OpenAPI SandBox: A sandbox environment for exploring Momo Open API capabilities. ([GitHub Repository Link](https://github.com/Ddamula/MoMoOpenAPI_SandBox))
 ## - azure_api_application_insights : A sample Azure API project integrating Application Insights for monitoring and analytics. [GitHub Repository Link](https://github.com/Ddamula/azure_api_application_insights)
 
-## Connect with Me
 
-### - LinkedIn: (www.linkedin.com/in/ddamulira-allan)
-### - GitHub:   (https://github.com/Ddamula)
+#  [LinkedIn](www.linkedin.com/in/ddamulira-allan)
+#  [GitHub](https://github.com/Ddamula)
+
 
 # Let's Build Something Amazing!
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ddamulira-allan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ug.linkedin.com/in/ddamulira-allan?trk=profile-badge">Ddamulira Allan</a></div>
               
