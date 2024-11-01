@@ -1,4 +1,7 @@
+![LinkedIn Background Photo](https://github.com/user-attachments/assets/a51219d5-f302-4141-a855-8e4f5ce49385)
+
 # Ddamulira Allan
+
 
 ## Software Developer | Innovator | Lifelong Learner
 
@@ -26,3 +29,6 @@
 ### - GitHub:   (https://github.com/Ddamula)
 
 # Let's Build Something Amazing!
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ddamulira-allan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ug.linkedin.com/in/ddamulira-allan?trk=profile-badge">Ddamulira Allan</a></div>
+              
