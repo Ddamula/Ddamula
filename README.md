@@ -22,5 +22,5 @@
 
 ## 📫 Connect With Me
 
-### [LinkedIn] ([www.](https://linkedin.com/in/ddamulira-allan)
+### [LinkedIn] (https://linkedin.com/in/ddamulira-allan)
 ### [GitHub] (https://github.com/Ddamula)
